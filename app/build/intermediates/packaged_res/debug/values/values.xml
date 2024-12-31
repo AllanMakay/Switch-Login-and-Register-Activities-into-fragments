@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="coffee_cream">#D7CCC8</color>
+    <color name="dark_brown">#4E342E</color>
+    <color name="deep_brown">#3E2723</color>
+    <color name="light_cream">#EFEBE9</color>
+    <color name="primaryColor">#FF6200EE</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MojaAplikacja</string>
+    <string name="confirm_password_hint">Potwierdź Hasło</string>
+    <string name="email_hint">Email</string>
+    <string name="full_name_hint">Pełne Imię</string>
+    <string name="login_button">Zaloguj</string>
+    <string name="password_hint">Hasło</string>
+    <string name="phone_number_hint">Numer Telefonu</string>
+    <string name="register_button">Zarejestruj</string>
+    <string name="terms_condition">Zgadzam się na warunki</string>
+    <string name="toast_empty_password">Hasło nie może być puste</string>
+    <string name="toast_invalid_email">Nieprawidłowy adres email</string>
+    <string name="toast_login_success">Zalogowano pomyślnie!</string>
+    <string name="toast_registration_success">Rejestracja zakończona sukcesem!</string>
+    <style name="Theme.myApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/dark_brown</item>
+        <item name="colorPrimaryVariant">@color/deep_brown</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+
+        <item name="colorSecondary">@color/coffee_cream</item>
+        <item name="colorSecondaryVariant">@color/light_cream</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorSecondary">@color/coffee_cream</item>
+        <item name="android:colorAccent">@color/coffee_cream</item>
+
+
+    </style>
+</resources>

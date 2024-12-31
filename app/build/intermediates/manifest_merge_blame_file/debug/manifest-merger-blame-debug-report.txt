@@ -1,0 +1,121 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mobileapps.lesson2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:5:5-50:19
+12        android:allowBackup="true"
+12-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\heybe\.gradle\caches\8.9\transforms\e7bfdb5892b346f7e25f399a229374f1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:8:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="myApp"
+18-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:10:9-30
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.myApp" >
+22-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:13:9-43
+23
+24        <!-- SignUp Activity -->
+25        <activity
+25-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:17:9-24:20
+26            android:name="com.mobileapps.lesson2.SignUpActivity"
+26-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:18:13-43
+27            android:exported="false"
+27-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:19:13-37
+28            android:theme="@style/Theme.myApp" >
+28-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:20:13-47
+29            <meta-data
+29-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:21:13-23:36
+30                android:name="android.app.lib_name"
+30-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:22:17-52
+31                android:value="" />
+31-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:23:17-33
+32        </activity>
+33
+34        <!-- Account Activity -->
+35        <activity
+35-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:27:9-34:20
+36            android:name="com.mobileapps.lesson2.AccountActivity"
+36-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:28:13-44
+37            android:exported="false"
+37-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:29:13-37
+38            android:theme="@style/Theme.myApp" >
+38-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:30:13-47
+39            <meta-data
+39-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:21:13-23:36
+40                android:name="android.app.lib_name"
+40-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:22:17-52
+41                android:value="" />
+41-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:23:17-33
+42        </activity>
+43
+44        <!-- Main Activity -->
+45        <activity
+45-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:37:9-48:20
+46            android:name="com.mobileapps.lesson2.MainActivity"
+46-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:38:13-41
+47            android:exported="true"
+47-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:39:13-36
+48            android:theme="@style/Theme.myApp" >
+48-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:40:13-47
+49            <intent-filter>
+49-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:41:13-44:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:42:17-69
+50-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:42:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:43:17-77
+52-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:43:27-74
+53            </intent-filter>
+54
+55            <meta-data
+55-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:21:13-23:36
+56                android:name="android.app.lib_name"
+56-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:22:17-52
+57                android:value="" />
+57-->C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:23:17-33
+58        </activity>
+59
+60        <provider
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+61            android:name="androidx.startup.InitializationProvider"
+61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+62            android:authorities="com.mobileapps.lesson2.androidx-startup"
+62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+63            android:exported="false" >
+63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+64            <meta-data
+64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+65                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+66                android:value="androidx.startup" />
+66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+67            <meta-data
+67-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+68                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+69                android:value="androidx.startup" />
+69-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+70        </provider>
+71    </application>
+72
+73</manifest>

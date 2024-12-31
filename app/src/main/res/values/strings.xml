@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MojaAplikacja</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Hasło</string>
+    <string name="login_button">Zaloguj</string>
+    <string name="register_button">Zarejestruj</string>
+    <string name="full_name_hint">Pełne Imię</string>
+    <string name="phone_number_hint">Numer Telefonu</string>
+    <string name="confirm_password_hint">Potwierdź Hasło</string>
+    <string name="terms_condition">Zgadzam się na warunki</string>
+    <string name="toast_login_success">Zalogowano pomyślnie!</string>
+    <string name="toast_registration_success">Rejestracja zakończona sukcesem!</string>
+    <string name="toast_invalid_email">Nieprawidłowy adres email</string>
+    <string name="toast_empty_password">Hasło nie może być puste</string>
+</resources>

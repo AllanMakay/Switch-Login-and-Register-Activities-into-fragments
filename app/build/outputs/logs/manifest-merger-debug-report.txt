@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:2:1-52:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\heybe\.gradle\caches\8.9\transforms\5048597bad3be0e3985cbc24e41db7e0\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\heybe\.gradle\caches\8.9\transforms\2e93c20eada50939f5bd63b8c8cac8d0\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\heybe\.gradle\caches\8.9\transforms\ca079c5de3da8891b4d5b322706bc3e4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\heybe\.gradle\caches\8.9\transforms\c0077996190f0ec15c43cd5e7d573e49\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\55b2feca5d1f5dd8bc2d08d6b44d5c76\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\heybe\.gradle\caches\8.9\transforms\8a66bd228a2c0d5f0a0dc512f1a50369\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\heybe\.gradle\caches\8.9\transforms\6cf24033e4279448ea4b48485d6ccc5d\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\heybe\.gradle\caches\8.9\transforms\931e71580f4244a9d32216b7a690f025\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\54c34b47a5510a4c4bbe1c02dd131199\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\heybe\.gradle\caches\8.9\transforms\8df561c4a32a59b497003e6f81ba426d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\5cb8ca05235aed10a910d91a707cf5ba\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\7fa1c5a24852bf4db803c08a0166bb6f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\heybe\.gradle\caches\8.9\transforms\1973774cf80839f00da2a01f13bee95b\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9ddce0e3b6f809832f5738b342ebd2e0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\cf9d925ab2d7281669eb03d0493433c7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\7f3469220af7eafb229f88d83483d699\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\06c1d8f6ea2d8745144f506a46422ba4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\ba652b8d42c52a709d846966a835e5e7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\36f3e040fe8e271cd53609dab2da9c41\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\0d1c00a07cd6f629d42299bc9f450bdf\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\heybe\.gradle\caches\8.9\transforms\e7bfdb5892b346f7e25f399a229374f1\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9f3b502bcdec77de9dd1cad4f228b766\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\heybe\.gradle\caches\8.9\transforms\73b9fb63cdbf2cb173e722b5565c744c\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\bc5d48ba250b3a47e08fc8f602e701cb\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\heybe\.gradle\caches\8.9\transforms\8974648e07afd8dd241eeb8a74ea033e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\609726e694d2538ca5f8821886644959\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\heybe\.gradle\caches\8.9\transforms\84b1c7ab2243ab901730ae1bf9511df0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9e16e513e3330d5d3b61fbf03050865d\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\cf0360367d43150a6b0a52d053670e4b\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\1705a6c3cd178e991956c8e98e64d1f9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\heybe\.gradle\caches\8.9\transforms\fe1eb2a7c297296fce9b008ccbdfa38b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9045936f49a98efcb093961a5b62c01e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9a5f48cdd52b32780b87c43785da3cd6\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\3198bfd5e9d02437cb29cfcb2d8ba248\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\7bd19c757efb42dd420ecf7b62b114a3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\994cd2fc5bbc86071e83799d269ab16e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\2969d4a9608da4bdc78cbc03daa3908e\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\8ce15764b743ee957e1185558082845a\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:2:1-52:12
+		INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:2:1-52:12
+		INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:2:1-52:12
+		INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:5:5-50:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\heybe\.gradle\caches\8.9\transforms\2e93c20eada50939f5bd63b8c8cac8d0\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\heybe\.gradle\caches\8.9\transforms\2e93c20eada50939f5bd63b8c8cac8d0\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\heybe\.gradle\caches\8.9\transforms\ca079c5de3da8891b4d5b322706bc3e4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\heybe\.gradle\caches\8.9\transforms\ca079c5de3da8891b4d5b322706bc3e4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\heybe\.gradle\caches\8.9\transforms\e7bfdb5892b346f7e25f399a229374f1\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\heybe\.gradle\caches\8.9\transforms\e7bfdb5892b346f7e25f399a229374f1\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\heybe\.gradle\caches\8.9\transforms\84b1c7ab2243ab901730ae1bf9511df0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\heybe\.gradle\caches\8.9\transforms\84b1c7ab2243ab901730ae1bf9511df0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9e16e513e3330d5d3b61fbf03050865d\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9e16e513e3330d5d3b61fbf03050865d\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\heybe\.gradle\caches\8.9\transforms\e7bfdb5892b346f7e25f399a229374f1\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:10:9-30
+	android:fullBackupContent
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:13:9-43
+	android:dataExtractionRules
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.mobileapps.lesson2.SignUpActivity
+ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:exported
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:19:13-37
+	android:theme
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:18:13-43
+meta-data#android.app.lib_name
+ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:21:13-23:36
+	android:value
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:23:17-33
+	android:name
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:22:17-52
+activity#com.mobileapps.lesson2.AccountActivity
+ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:29:13-37
+	android:theme
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:30:13-47
+	android:name
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:28:13-44
+activity#com.mobileapps.lesson2.MainActivity
+ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:37:9-48:20
+	android:exported
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:39:13-36
+	android:theme
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:40:13-47
+	android:name
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:38:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml:43:27-74
+uses-sdk
+INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\heybe\.gradle\caches\8.9\transforms\5048597bad3be0e3985cbc24e41db7e0\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\heybe\.gradle\caches\8.9\transforms\5048597bad3be0e3985cbc24e41db7e0\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\heybe\.gradle\caches\8.9\transforms\2e93c20eada50939f5bd63b8c8cac8d0\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\heybe\.gradle\caches\8.9\transforms\2e93c20eada50939f5bd63b8c8cac8d0\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\heybe\.gradle\caches\8.9\transforms\ca079c5de3da8891b4d5b322706bc3e4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\heybe\.gradle\caches\8.9\transforms\ca079c5de3da8891b4d5b322706bc3e4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\heybe\.gradle\caches\8.9\transforms\c0077996190f0ec15c43cd5e7d573e49\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\heybe\.gradle\caches\8.9\transforms\c0077996190f0ec15c43cd5e7d573e49\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\55b2feca5d1f5dd8bc2d08d6b44d5c76\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\55b2feca5d1f5dd8bc2d08d6b44d5c76\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\heybe\.gradle\caches\8.9\transforms\8a66bd228a2c0d5f0a0dc512f1a50369\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\heybe\.gradle\caches\8.9\transforms\8a66bd228a2c0d5f0a0dc512f1a50369\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\heybe\.gradle\caches\8.9\transforms\6cf24033e4279448ea4b48485d6ccc5d\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\heybe\.gradle\caches\8.9\transforms\6cf24033e4279448ea4b48485d6ccc5d\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\heybe\.gradle\caches\8.9\transforms\931e71580f4244a9d32216b7a690f025\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\heybe\.gradle\caches\8.9\transforms\931e71580f4244a9d32216b7a690f025\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\54c34b47a5510a4c4bbe1c02dd131199\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\54c34b47a5510a4c4bbe1c02dd131199\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\heybe\.gradle\caches\8.9\transforms\8df561c4a32a59b497003e6f81ba426d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\heybe\.gradle\caches\8.9\transforms\8df561c4a32a59b497003e6f81ba426d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\5cb8ca05235aed10a910d91a707cf5ba\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\5cb8ca05235aed10a910d91a707cf5ba\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\7fa1c5a24852bf4db803c08a0166bb6f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\7fa1c5a24852bf4db803c08a0166bb6f\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\heybe\.gradle\caches\8.9\transforms\1973774cf80839f00da2a01f13bee95b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\heybe\.gradle\caches\8.9\transforms\1973774cf80839f00da2a01f13bee95b\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9ddce0e3b6f809832f5738b342ebd2e0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9ddce0e3b6f809832f5738b342ebd2e0\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\cf9d925ab2d7281669eb03d0493433c7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\cf9d925ab2d7281669eb03d0493433c7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\7f3469220af7eafb229f88d83483d699\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\7f3469220af7eafb229f88d83483d699\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\06c1d8f6ea2d8745144f506a46422ba4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\06c1d8f6ea2d8745144f506a46422ba4\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\ba652b8d42c52a709d846966a835e5e7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\ba652b8d42c52a709d846966a835e5e7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\36f3e040fe8e271cd53609dab2da9c41\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\36f3e040fe8e271cd53609dab2da9c41\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\0d1c00a07cd6f629d42299bc9f450bdf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\0d1c00a07cd6f629d42299bc9f450bdf\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\heybe\.gradle\caches\8.9\transforms\e7bfdb5892b346f7e25f399a229374f1\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\heybe\.gradle\caches\8.9\transforms\e7bfdb5892b346f7e25f399a229374f1\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9f3b502bcdec77de9dd1cad4f228b766\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9f3b502bcdec77de9dd1cad4f228b766\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\heybe\.gradle\caches\8.9\transforms\73b9fb63cdbf2cb173e722b5565c744c\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\heybe\.gradle\caches\8.9\transforms\73b9fb63cdbf2cb173e722b5565c744c\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\bc5d48ba250b3a47e08fc8f602e701cb\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\bc5d48ba250b3a47e08fc8f602e701cb\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\heybe\.gradle\caches\8.9\transforms\8974648e07afd8dd241eeb8a74ea033e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\heybe\.gradle\caches\8.9\transforms\8974648e07afd8dd241eeb8a74ea033e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\609726e694d2538ca5f8821886644959\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\609726e694d2538ca5f8821886644959\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\heybe\.gradle\caches\8.9\transforms\84b1c7ab2243ab901730ae1bf9511df0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\heybe\.gradle\caches\8.9\transforms\84b1c7ab2243ab901730ae1bf9511df0\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9e16e513e3330d5d3b61fbf03050865d\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9e16e513e3330d5d3b61fbf03050865d\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\cf0360367d43150a6b0a52d053670e4b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\cf0360367d43150a6b0a52d053670e4b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\1705a6c3cd178e991956c8e98e64d1f9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\1705a6c3cd178e991956c8e98e64d1f9\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\heybe\.gradle\caches\8.9\transforms\fe1eb2a7c297296fce9b008ccbdfa38b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\heybe\.gradle\caches\8.9\transforms\fe1eb2a7c297296fce9b008ccbdfa38b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9045936f49a98efcb093961a5b62c01e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9045936f49a98efcb093961a5b62c01e\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9a5f48cdd52b32780b87c43785da3cd6\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9a5f48cdd52b32780b87c43785da3cd6\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\3198bfd5e9d02437cb29cfcb2d8ba248\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\3198bfd5e9d02437cb29cfcb2d8ba248\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\7bd19c757efb42dd420ecf7b62b114a3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\7bd19c757efb42dd420ecf7b62b114a3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\994cd2fc5bbc86071e83799d269ab16e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\994cd2fc5bbc86071e83799d269ab16e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\2969d4a9608da4bdc78cbc03daa3908e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\2969d4a9608da4bdc78cbc03daa3908e\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\8ce15764b743ee957e1185558082845a\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\heybe\.gradle\caches\8.9\transforms\8ce15764b743ee957e1185558082845a\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\heybe\Desktop\myProject\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9e16e513e3330d5d3b61fbf03050865d\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\9e16e513e3330d5d3b61fbf03050865d\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\heybe\.gradle\caches\8.9\transforms\6355ed021ee506abc64459f807b882b8\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\heybe\.gradle\caches\8.9\transforms\834f686ddd345d65409321cefe7d8706\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

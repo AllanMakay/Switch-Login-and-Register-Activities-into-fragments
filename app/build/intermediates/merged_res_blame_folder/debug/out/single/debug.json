@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable_person.jpg.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\drawable\\person.jpg"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable_img_coffee_photo.png.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\drawable\\img_coffee_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\layout_activity_account.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "com.mobileapps.lesson2.app-merged_res-26:/layout_fragment_login.xml.flat",
+        "source": "com.mobileapps.lesson2.app-main-28:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-pngs-21:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable_sign_in.jpg.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\drawable\\sign_in.jpg"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable_lock.png.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable_user.jpg.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\drawable\\user.jpg"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.mobileapps.lesson2.app-merged_res-26:/layout_fragment_register.xml.flat",
+        "source": "com.mobileapps.lesson2.app-main-28:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable_mail.png.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\drawable\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable_phone.jpg.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\drawable\\phone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable_smartphone.jpg.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\drawable\\smartphone.jpg"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable_rounded_input_background.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\drawable\\rounded_input_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-merged_res-26:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\heybe\\.gradle\\daemon\\8.9\\com.mobileapps.lesson2.app-main-28:\\drawable\\baseline_lock_24.xml"
+    }
+]

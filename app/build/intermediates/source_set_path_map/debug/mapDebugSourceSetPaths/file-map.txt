@@ -1,0 +1,28 @@
+com.mobileapps.lesson2.app-startup-runtime-1.0.0-0 C:\Users\heybe\.gradle\caches\8.9\transforms\1a9da9ba2ad74331e9856bd8f0b174c4\transformed\startup-runtime-1.0.0\res
+com.mobileapps.lesson2.app-transition-1.2.0-1 C:\Users\heybe\.gradle\caches\8.9\transforms\54e93f22a9e8334ff61956ddaa153d5d\transformed\transition-1.2.0\res
+com.mobileapps.lesson2.app-emoji2-views-helper-1.0.0-2 C:\Users\heybe\.gradle\caches\8.9\transforms\6401074af3e725c2c3f7dcf2c4ab4194\transformed\emoji2-views-helper-1.0.0\res
+com.mobileapps.lesson2.app-emoji2-1.0.0-3 C:\Users\heybe\.gradle\caches\8.9\transforms\6e92b63f47cbb6f77d82424c9165fb0b\transformed\emoji2-1.0.0\res
+com.mobileapps.lesson2.app-material-1.5.0-4 C:\Users\heybe\.gradle\caches\8.9\transforms\78794c84ea1848ca6071186af1eb05f1\transformed\material-1.5.0\res
+com.mobileapps.lesson2.app-annotation-experimental-1.1.0-5 C:\Users\heybe\.gradle\caches\8.9\transforms\8aa85d40e715b94cbb882531f8fbd998\transformed\annotation-experimental-1.1.0\res
+com.mobileapps.lesson2.app-recyclerview-1.1.0-6 C:\Users\heybe\.gradle\caches\8.9\transforms\9835394ee584cf7292f95a6087f19ef6\transformed\recyclerview-1.1.0\res
+com.mobileapps.lesson2.app-savedstate-1.1.0-7 C:\Users\heybe\.gradle\caches\8.9\transforms\9fe9a21456d1d480b5058d4fa6e70da8\transformed\savedstate-1.1.0\res
+com.mobileapps.lesson2.app-constraintlayout-2.1.3-8 C:\Users\heybe\.gradle\caches\8.9\transforms\a88917f47ecee6cba1bcbd15ca622521\transformed\constraintlayout-2.1.3\res
+com.mobileapps.lesson2.app-appcompat-1.4.1-9 C:\Users\heybe\.gradle\caches\8.9\transforms\b0ac43e12f4bc5886f05c4a41ed2dfdb\transformed\appcompat-1.4.1\res
+com.mobileapps.lesson2.app-viewpager2-1.0.0-10 C:\Users\heybe\.gradle\caches\8.9\transforms\b1b71c2022525b0fe9753319e6c20afe\transformed\viewpager2-1.0.0\res
+com.mobileapps.lesson2.app-lifecycle-process-2.4.0-11 C:\Users\heybe\.gradle\caches\8.9\transforms\b880ceb19dc8301e64d04e4ac90cea7d\transformed\lifecycle-process-2.4.0\res
+com.mobileapps.lesson2.app-fragment-1.3.6-12 C:\Users\heybe\.gradle\caches\8.9\transforms\cc2dabe0d6aa091b4b141fdd69d0b9fe\transformed\fragment-1.3.6\res
+com.mobileapps.lesson2.app-cardview-1.0.0-13 C:\Users\heybe\.gradle\caches\8.9\transforms\cfb77f359d2db7df58905e43b1f956a7\transformed\cardview-1.0.0\res
+com.mobileapps.lesson2.app-coordinatorlayout-1.1.0-14 C:\Users\heybe\.gradle\caches\8.9\transforms\d0f097c2e6867807e9ee73202f543e4b\transformed\coordinatorlayout-1.1.0\res
+com.mobileapps.lesson2.app-lifecycle-runtime-2.4.0-15 C:\Users\heybe\.gradle\caches\8.9\transforms\de4e3540688b4954f2f605885a78e426\transformed\lifecycle-runtime-2.4.0\res
+com.mobileapps.lesson2.app-core-ktx-1.7.0-16 C:\Users\heybe\.gradle\caches\8.9\transforms\ef2e5254a273041ecb2801672025efaa\transformed\core-ktx-1.7.0\res
+com.mobileapps.lesson2.app-lifecycle-viewmodel-2.3.1-17 C:\Users\heybe\.gradle\caches\8.9\transforms\f0a08b7a2c98fccaaa617d25efbfa153\transformed\lifecycle-viewmodel-2.3.1\res
+com.mobileapps.lesson2.app-core-1.7.0-18 C:\Users\heybe\.gradle\caches\8.9\transforms\f7fd28c1542e9f7ee3dfd0c443d73351\transformed\core-1.7.0\res
+com.mobileapps.lesson2.app-drawerlayout-1.1.1-19 C:\Users\heybe\.gradle\caches\8.9\transforms\f86b3a2cf6702f4a860ec57a686cfffa\transformed\drawerlayout-1.1.1\res
+com.mobileapps.lesson2.app-appcompat-resources-1.4.1-20 C:\Users\heybe\.gradle\caches\8.9\transforms\fbeb07104251b5f8e8bc13ee4f5ec802\transformed\appcompat-resources-1.4.1\res
+com.mobileapps.lesson2.app-pngs-21 C:\Users\heybe\Desktop\Mobile-Applications-2024-masterssss\Mobile-Applications-2024-master\Lesson 2\app\build\generated\res\pngs\debug
+com.mobileapps.lesson2.app-resValues-22 C:\Users\heybe\Desktop\Mobile-Applications-2024-masterssss\Mobile-Applications-2024-master\Lesson 2\app\build\generated\res\resValues\debug
+com.mobileapps.lesson2.app-packageDebugResources-23 C:\Users\heybe\Desktop\Mobile-Applications-2024-masterssss\Mobile-Applications-2024-master\Lesson 2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mobileapps.lesson2.app-packageDebugResources-24 C:\Users\heybe\Desktop\Mobile-Applications-2024-masterssss\Mobile-Applications-2024-master\Lesson 2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mobileapps.lesson2.app-debug-25 C:\Users\heybe\Desktop\Mobile-Applications-2024-masterssss\Mobile-Applications-2024-master\Lesson 2\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.mobileapps.lesson2.app-debug-26 C:\Users\heybe\Desktop\Mobile-Applications-2024-masterssss\Mobile-Applications-2024-master\Lesson 2\app\src\debug\res
+com.mobileapps.lesson2.app-main-27 C:\Users\heybe\Desktop\Mobile-Applications-2024-masterssss\Mobile-Applications-2024-master\Lesson 2\app\src\main\res
